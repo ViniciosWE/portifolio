@@ -26,6 +26,11 @@ A proposta do site é transformar ideias em experiências digitais modernas, reu
 
 Demonstrar minhas habilidades como desenvolvedor, compartilhar projetos práticos e evoluir constantemente através da criação de interfaces modernas e funcionais. Portfólios são amplamente usados por desenvolvedores para exibir projetos e experiências de forma visual e acessível. :contentReference[oaicite:0]{index=0}
 
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da licença MIT.  
+Consulte o arquivo [LICENSE](LICENSE.txt) para mais informações.
+
 ## 👨‍💻 Autor
 
 **Vinicios Weide**  
